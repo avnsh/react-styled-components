@@ -1,8 +1,8 @@
 {
-  "name": "@thefakeorg/utils",
+  "name": "@asadharan/utils",
   "version": "0.0.1",
   "description": "Internal, shared utilities",
-  "author": "Jared Palmer",
+  "author": "Avinash Kumar",
   "scripts": {
     "start": "tsdx watch --tsconfig tsconfig.build.json --verbose --noClean",
     "build": "tsdx build --tsconfig tsconfig.build.json",
