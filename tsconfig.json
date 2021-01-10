@@ -7,7 +7,7 @@
     "typeRoots": ["./node_modules/@types", "./types"],
     "paths": {
       "@asadharan/utils": ["packages/utils/src"],
-      "@asadharan/react": ["packages/react/src"],
+      "@asadharan/core": ["packages/core/src"],
       "$test/*": ["test/*"]
     }
   }
